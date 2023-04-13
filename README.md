@@ -1,4 +1,5 @@
-# Theoretical Physics Dissertation
+# Computer Simulations of Three Dimensional Foams
+## Theoretical Physics Dissertation
 
 Dissertation required for completion of B.A. degree in Theoretical Physics at Trinity College Dublin. 
 
